@@ -1,0 +1,9 @@
+name: LimitedInventory
+version: '1.0'
+main: com.al3x.limitedInventory.Main
+api-version: '1.21'
+commands:
+    limitedinventory:
+        description: Main command for LimitedInventory plugin
+        usage: /<command>
+        permission: limitedinventory.admin

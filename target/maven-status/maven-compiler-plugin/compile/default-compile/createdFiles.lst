@@ -1,0 +1,12 @@
+com\al3x\limitedInventory\Listeners\DropItemListener.class
+com\al3x\limitedInventory\Listeners\InventoryClickListener.class
+com\al3x\limitedInventory\Main.class
+com\al3x\limitedInventory\Commands\LimitedInventoryCmd.class
+com\al3x\limitedInventory\Listeners\JoinListener.class
+com\al3x\limitedInventory\PlayerManager.class
+com\al3x\limitedInventory\Listeners\DeathListener.class
+com\al3x\limitedInventory\Listeners\BlockPlaceListener.class
+com\al3x\limitedInventory\Util.class
+com\al3x\limitedInventory\BarrierItem.class
+com\al3x\limitedInventory\Listeners\SwapHandListener.class
+com\al3x\limitedInventory\Listeners\RespawnListener.class
